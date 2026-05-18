@@ -60,7 +60,7 @@ hr { border: none; border-top: 1px solid var(--border); margin: 36px 0; }
     border-left: 1px solid var(--border); padding-left: 12px; margin-left: 4px;
 }
 .topnav-links {
-    display: flex; align-items: center; gap: 16spx;
+    display: flex; align-items: center; gap: 16px;
 }
 .topnav-links a:not([class*="nav-btn"]) {
     font-family: 'Raleway', sans-serif;
